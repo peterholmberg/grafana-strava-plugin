@@ -1,0 +1,34 @@
+{
+  "type": "datasource",
+  "name": "Grafana-strava",
+  "id": "grafana-strava",
+  "info": {
+    "description": "Strava as data source for Grafana",
+    "author": {
+      "name": "Peter Holmberg",
+      "url": "https://github.com/peterholmberg/grafana-strava-plugin"
+    },
+    "keywords": [
+      "strava",
+      "datasource"
+    ],
+    "logos": {
+      "small": "img/grafana-strava-logo.svg",
+      "large": "img/grafana-strava-logo.svg"
+    },
+    "links": [
+      {
+        "name": "Project site",
+        "url": "https://github.com/peterholmberg/grafana-strava-plugin"
+      }
+    ],
+    "screenshots": [
+    ],
+    "version": "1.0.0",
+    "updated": "2018-12-03"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.x.x",
+    "plugins": []
+  }
+}

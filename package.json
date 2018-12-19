@@ -1,0 +1,19 @@
+{
+  "name": "grafana-strava-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterholmberg/grafana-strava-plugin.git"
+  },
+  "author": "Peter Holmberg (peter.hlmbrg@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterholmberg/grafana-strava-plugin/issues"
+  },
+  "homepage": "https://github.com/peterholmberg/grafana-strava-plugin#readme"
+}
