@@ -13,8 +13,8 @@
       "datasource"
     ],
     "logos": {
-      "small": "img/grafana-strava-logo.svg",
-      "large": "img/grafana-strava-logo.svg"
+      "small": "img/grafana-strava-logo.png",
+      "large": "img/grafana-strava-logo.png"
     },
     "links": [
       {
